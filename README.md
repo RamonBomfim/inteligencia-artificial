@@ -28,8 +28,8 @@ Neste repositório constam todas as atividades (valendo ponto ou não) da matér
 - Clone o repositório
 - Certifique-se de ter o python 3.x instalado em sua máquina (caso não o tenha, [clique aqui](https://www.python.org/downloads/) e sigua o passo a passo)
 - Entre no repositório `cd inteligencia-artificial`
-- Logo após, entre no diretório correspondente ao exercício que deseja executar, Ex.: 'cd exercicio_algoritmo_genetico'
-- Rode o comando 'python main.py'
+- Logo após, entre no diretório correspondente ao exercício que deseja executar, Ex.: cd `exercicio_algoritmo_genetico`
+- Rode o comando `python main.py`
 
 ## 📄 Licença
 
