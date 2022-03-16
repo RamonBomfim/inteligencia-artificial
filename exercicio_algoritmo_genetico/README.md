@@ -4,7 +4,7 @@
 - Use o algoritmo genético para escolher para carregar levando o maior lucro SEM passar do limite de peso.
 
 <p align="center">
-  <img alt="Tabela de Itens" src=".github/tabela-itens.jpeg" width="100%">
+  <img alt="Tabela de Itens" src=".github/tabela-itens.jpeg" width="30%">
 </p>
 
 
