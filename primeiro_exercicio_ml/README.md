@@ -9,3 +9,11 @@
   <img alt="Teste positivo para corona vírus" src=".github/teste-positivo.jpeg" width="30%">
   <img alt="Teste negativo para corono vírus" src=".github/teste-negativo.jpeg" width="30%">
 </p>
+
+## Informações importantes
+
+- Para rodar o projeto, antes de mais nada faça o clone do repositório
+- Após clonar, entre no diretório `cd primeiro_exercicio_ml`
+- Certifique-se de ter o Python 3.x instalado
+- Instale o Sklearn `pip install sklearn`
+- Rode o projeto `python main.py`
