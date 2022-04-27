@@ -11,7 +11,7 @@
 - Crie o modelo de regressão, e solicite ao usuário para informar os dados abaixo, dando uma previsão de likes, comentários e compartilhamento.
 
 <p align="center">
-  <img alt="Exemplo de resultado" src=".github/exemplo-resultado.jpg" width="30%">
+  <img alt="Exemplo de resultado" src=".github/exemplo-resultado.jpg" width="50%">
 </p>
 
 ## Informações importantes
